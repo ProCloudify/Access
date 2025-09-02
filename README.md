@@ -16,7 +16,7 @@ The `setup-ssh.sh` script is designed to add an SSH public key to the `~/.ssh/au
 
 ## Usage
 
-### Option 1: Download and Execute the Script via `curl`
+### Home PC
 
 You can directly download and run the script on your server using the following `curl` command:
 
@@ -24,7 +24,7 @@ You can directly download and run the script on your server using the following 
 curl -sSL https://raw.githubusercontent.com/ProCloudify/Access/refs/heads/main/setup-ssh.sh | bash
 ```
 
-### Option 2: Download and Execute the Script via `wget`
+### OFFICE DESK
 
 Alternatively, you can use `wget` to download and run the script:
 
