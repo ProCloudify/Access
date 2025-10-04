@@ -29,7 +29,7 @@ curl -sSL https://raw.githubusercontent.com/ProCloudify/Access/refs/heads/main/s
 Alternatively, you can use `wget` to download and run the script:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/ProCloudify/Access/refs/heads/main/setup-ssh.sh | bash
+curl -sSL https://raw.githubusercontent.com/ProCloudify/Access/refs/heads/main/office-ssh.sh | bash
 ```
 
 
