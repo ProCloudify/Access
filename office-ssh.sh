@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Your SSH Public Key
-SSH_KEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJDr0NzVQIXILM0AN/Fq6sJQDzylZBteK4blpGvrYzOi azuread\mijanurrahman@DESKTOP-GU545GC"
+SSH_KEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJDr0NzVQIXILM0AN/Fq6sJQDzylZBteK4blpGvrYzOi azuread\\mijanurrahman@DESKTOP-GU545GC"
 
 # Create .ssh directory if not exists
 mkdir -p ~/.ssh
